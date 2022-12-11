@@ -1,0 +1,144 @@
+.box2 {
+    width: 130px;
+    height: 155px;
+    background: rgb(85, 115, 3);
+    position: fixed;
+    top: 94px;
+    left: 24.5%;
+    border: 1px solid black;
+    text-align: left;
+    font-size: 15px;
+    color: white;
+}
+
+.box {
+    width: 42px;
+    height: 42px;
+    background: red;
+    border: 1px solid red;
+}
+
+#container {
+    width: 80%;
+    height: 500px;
+    margin: auto;
+    display: flex;
+}
+
+
+#heading {
+    text-align: center;
+}
+
+#first {
+    width: 35px;
+    text-align: center;
+    margin: auto;
+}
+
+#first h1 {
+    background-color: rgb(85, 115, 3);
+    width: 42px;
+}
+
+
+
+
+#second {
+    width: 35px;
+    text-align: center;
+    margin: 5.8% auto;
+}
+
+
+#second h1 {
+    background-color: rgb(210, 35, 35);
+}
+
+#third {
+    width: 35px;
+    text-align: center;
+    margin: 27.5% auto;
+}
+
+#third h1 {
+    background-color: rgb(243, 225, 199);
+}
+
+#forth {
+    width: 35px;
+    text-align: center;
+    margin: 16.9% auto;
+}
+
+#forth h1 {
+    background-color: blue;
+    color: white;
+}
+
+#fifth {
+    width: 35px;
+    text-align: center;
+    margin: 6.6% auto;
+}
+
+#fifth h1 {
+    background-color: orange;
+    color: white;
+}
+
+#six {
+    width: 35px;
+    text-align: center;
+    margin: 6.6% auto;
+}
+
+#six h1 {
+    background-color: orange;
+    color: white;
+}
+
+#seven {
+    width: 35px;
+    text-align: center;
+    margin: 6.6% auto;
+}
+
+
+#seven h1 {
+    background-color: purple;
+    color: white;
+}
+
+#eight {
+    width: 35px;
+    text-align: center;
+    margin: 6.6% auto;
+}
+
+#eight h1 {
+    background-color: greenyellow;
+    color: white;
+}
+
+#nine {
+    width: 35px;
+    text-align: center;
+    margin: 6.6% auto;
+}
+
+#nine h1 {
+    background-color: rgb(229, 30, 63);
+    color: white;
+}
+
+#ten {
+    width: 35px;
+    text-align: center;
+    margin: 1.3% auto;
+}
+
+#ten h1 {
+    background-color: yellow;
+    color: white;
+}
